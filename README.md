@@ -1,6 +1,6 @@
 # Bikcraft
 
-### Site usando HTML, CSS e Javascript
+### Site criado com HTML, CSS e Javascript
 
 Site criado para o curso de **Web Design** da Origamid. O design foi disponilizado pelo curso, porém todo o código foi feito do zero.
 
