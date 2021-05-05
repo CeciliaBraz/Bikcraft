@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="603" height="81.5" viewBox="0 0 603 81.5">
+  <g id="linhas" transform="translate(-399.146 -2099.5)">
+    <path id="Path_1" data-name="Path 1" d="M559.646,2148.9h200v80" transform="translate(241 -47.901)" fill="none" stroke="#000" stroke-width="3"/>
+    <path id="Path_2" data-name="Path 2" d="M759.646,2148.9h-200v80" transform="translate(-159 -47.901)" fill="none" stroke="#000" stroke-width="3"/>
+    <path id="Path_3" data-name="Path 3" d="M459,2210v21" transform="translate(241 -50)" fill="none" stroke="#000" stroke-width="3"/>
+  </g>
+</svg>
